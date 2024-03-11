@@ -17,6 +17,7 @@ public class NuevaFuncionalidad {
         int b = 2;
         int resta = a - b;
         System.out.println(resta);
+        System.out.println("");
     }
     
 }
